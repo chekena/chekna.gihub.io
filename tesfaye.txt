@@ -1,0 +1,11 @@
+<polyline points="55,5,75,25 95,5 115,25 135,5 155,25"
+style="stroke:brown; stroke-dasharray:3 1;fill:cornflowerblue;
+stroke-width:0.5"/>
+<path d=" m155,25 l165,25 a20,20 0 0,0 185,12.5 A12.5,12.5 0 0,1 195,12.5 A20,20 0 0,0 215,25"
+style="stroke:brown;stroke-dasharray:3 1;fill:cornflowerblue;
+stroke-width:0.5;"/>
+<text x="30" y="50"
+style="stroke:none; fill:black;
+font-size:10px;text-anchor:start;stroke-width=0.05;
+font-family: impact,haettenschweiler, 'arial Narrow bold',san-serif;"
+>svg.circle.rectangle.line.polyline.path.text</text>
